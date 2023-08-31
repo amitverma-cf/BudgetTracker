@@ -1,16 +1,35 @@
 # myfinance
 
-A new Flutter project.
+A Budget Tracker App [In-Progress]
 
-## Getting Started
+## Results
 
-This project is a starting point for a Flutter application.
+![Result](https://raw.githubusercontent.com/amitverma-cf/flutter_instagram_redesign/stable/assets/app_ss/120241234-335008197936766-667811.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="./screenshot/1.png" height="560" hspace="30">
+<img src="./screenshot/2.png" height="560" hspace="30">
+<br><br><br>
+<img src="./screenshot/3.png" height="560" hspace="30">
+<img src="./screenshot/4.png" height="560" hspace="30">
+<br><br><br>
+<img src="./screenshot/5.png" height="560" hspace="30">
+<img src="./screenshot/6.png" height="560" hspace="30">
+<br><br><br>
+<img src="./screenshot/7.png" height="560" hspace="30">
+<img src="./screenshot/8.png" height="560" hspace="30">
+<br><br><br>
+</p>
+
+## Support
+
+![Amit Verma](https://github.com/amitverma-cf) <br>
+[Instagram](https://www.instagram.com/amve.me) <br>
+[LinkedIn](https://www.linkedin.com/in/amit-verma-211285288/)
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> * UPI ID - av.amit2040fw@okaxis
