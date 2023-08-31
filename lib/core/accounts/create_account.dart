@@ -70,17 +70,17 @@ Future<dynamic> createNewAccount(
                     ),
                   ),
                   const SizedBox(height: 8.0),
-                  TextField(
-                    controller: imgUrlCtrl,
-                    decoration: const InputDecoration(
-                      border: OutlineInputBorder(
-                          borderRadius:
-                              BorderRadius.all(Radius.circular(16.0))),
-                      contentPadding:
-                          EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
-                      hintText: "Account Image Url",
-                    ),
-                  ),
+                  // TextField(
+                  //   controller: imgUrlCtrl,
+                  //   decoration: const InputDecoration(
+                  //     border: OutlineInputBorder(
+                  //         borderRadius:
+                  //             BorderRadius.all(Radius.circular(16.0))),
+                  //     contentPadding:
+                  //         EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+                  //     hintText: "Account Image Url",
+                  //   ),
+                  // ),
                   const SizedBox(height: 8.0),
                   FilledButton.tonalIcon(
                     onPressed: () {
