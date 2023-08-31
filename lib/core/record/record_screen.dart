@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:intl/intl.dart';
-import 'package:myfinance/core/record/create_record.dart';
 import 'package:remixicon/remixicon.dart';
 
 import '../../common/result_snackbar.dart';
