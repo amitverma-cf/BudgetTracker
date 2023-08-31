@@ -2,25 +2,20 @@
 
 A Budget Tracker App [In-Progress]
 
-## Results
-
-![Result](https://raw.githubusercontent.com/amitverma-cf/flutter_instagram_redesign/stable/assets/app_ss/120241234-335008197936766-667811.gif)
-
-
 ## Screenshots
 
 <p align="center">
-<img src="./screenshot/1.png" height="560" hspace="30">
-<img src="./screenshot/2.png" height="560" hspace="30">
+<img src="./screenshot/1.png" height="480" hspace="30">
+<img src="./screenshot/2.png" height="480" hspace="30">
 <br><br><br>
-<img src="./screenshot/3.png" height="560" hspace="30">
-<img src="./screenshot/4.png" height="560" hspace="30">
+<img src="./screenshot/3.png" height="480" hspace="30">
+<img src="./screenshot/4.png" height="480" hspace="30">
 <br><br><br>
-<img src="./screenshot/5.png" height="560" hspace="30">
-<img src="./screenshot/6.png" height="560" hspace="30">
+<img src="./screenshot/5.png" height="480" hspace="30">
+<img src="./screenshot/6.png" height="480" hspace="30">
 <br><br><br>
-<img src="./screenshot/7.png" height="560" hspace="30">
-<img src="./screenshot/8.png" height="560" hspace="30">
+<img src="./screenshot/7.png" height="480" hspace="30">
+<img src="./screenshot/8.png" height="480" hspace="30">
 <br><br><br>
 </p>
 
